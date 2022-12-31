@@ -2,7 +2,7 @@
 <h3 align="center">Junior Web Developer in Myanmar</h3>
 
 
-- 🌱 I’m currently learing Vue.js
+- 🌱 I’m currently learing React.js
 
 - 💬 Ask me about **Laravel and Vue**
 
