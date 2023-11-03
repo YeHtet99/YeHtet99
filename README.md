@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ye Myint Htet</h1>
-<h3 align="center">Junior Web Developer in Myanmar</h3>
+<h3 align="center">Web Developer in Myanmar</h3>
 
 
 - 🌱 I’m currently learing React.js
