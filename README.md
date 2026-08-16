@@ -2,9 +2,9 @@
 <h3 align="center">Web Developer in Myanmar</h3>
 
 
-- 🌱 I’m currently learing React.js
+- 🌱 I’m currently learing Next.js.
 
-- 💬 Ask me about **Laravel and Vue**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **yemyinthtet99999@gmail.com**
 
